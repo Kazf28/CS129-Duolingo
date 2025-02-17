@@ -4,8 +4,6 @@ Retention in Gamified Learning: Analyzing Duolingo User Engagement with Machine 
 
 Category: Education, Machine Learning, Learning Analytics
 
-Member: Kaz Fukuhara (kazf28), Xinman (Yoyo) Liu (xinman), Xinyu (Teah) Shi (teah2001)
-
 Motivation
 
 Language learning apps like Duolingo have revolutionized the way people acquire new languages in a gamified manner, having 37.2 million active users per day. However, user engagement remains a critical challenge. In any type of learning, students start strong but their engagement and activeness drops off drastically, while others remain consistently active. This trend is also observable with Duolingo, and understanding the patterns behind student engagement can help improve personalized learning experiences, retention strategies, and overall learning outcomes.
